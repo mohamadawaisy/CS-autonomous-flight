@@ -1,0 +1,12 @@
+c:\users\m7md\documents\visual studio 2015\Projects\arduinoUI\arduinoUI\bin\Debug\arduinoUI.exe.config
+c:\users\m7md\documents\visual studio 2015\Projects\arduinoUI\arduinoUI\bin\Debug\arduinoUI.exe
+c:\users\m7md\documents\visual studio 2015\Projects\arduinoUI\arduinoUI\bin\Debug\arduinoUI.pdb
+c:\users\m7md\documents\visual studio 2015\Projects\arduinoUI\arduinoUI\obj\Debug\arduinoUI.csprojResolveAssemblyReference.cache
+c:\users\m7md\documents\visual studio 2015\Projects\arduinoUI\arduinoUI\obj\Debug\arduinoUI.Form1.resources
+c:\users\m7md\documents\visual studio 2015\Projects\arduinoUI\arduinoUI\obj\Debug\arduinoUI.Properties.Resources.resources
+c:\users\m7md\documents\visual studio 2015\Projects\arduinoUI\arduinoUI\obj\Debug\arduinoUI.csproj.GenerateResource.Cache
+c:\users\m7md\documents\visual studio 2015\Projects\arduinoUI\arduinoUI\obj\Debug\arduinoUI.exe
+c:\users\m7md\documents\visual studio 2015\Projects\arduinoUI\arduinoUI\obj\Debug\arduinoUI.pdb
+C:\Users\m7md\Documents\Visual Studio 2015\Projects\arduinoUI\CS-autonomous-flight\arduinoUI\bin\Debug\arduinoUI.exe.config
+C:\Users\m7md\Documents\Visual Studio 2015\Projects\arduinoUI\CS-autonomous-flight\arduinoUI\obj\Debug\arduinoUI.exe
+C:\Users\m7md\Documents\Visual Studio 2015\Projects\arduinoUI\CS-autonomous-flight\arduinoUI\obj\Debug\arduinoUI.pdb
